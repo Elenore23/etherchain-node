@@ -28,7 +28,7 @@
   "dependencies": {
     "express": "^4.13.3",
     "promise": "^7.0.4",
-    "unirest": "^0.4.2"
+    "unirest": "^0.6.0"
   },
   "license": "Apache License"
 }
