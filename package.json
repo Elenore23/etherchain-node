@@ -26,7 +26,7 @@
     "url": "https://github.com/sgsshankar/etherchain-node/issues"
   },
   "dependencies": {
-    "express": "^4.13.3",
+    "express": "^5.0.0",
     "promise": "^7.0.4",
     "unirest": "^0.4.2"
   },
